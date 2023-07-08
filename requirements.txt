@@ -6,3 +6,4 @@ cython==0.29.32
 tensorflow==2.12.0
 prophet==1.1.4
 xgboost==1.7.5
+keras==2.12.0
